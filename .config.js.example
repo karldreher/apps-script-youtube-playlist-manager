@@ -1,0 +1,5 @@
+const config = {
+    playlistID: 'Playlist ID',
+    query: 'Search Terms - Video Title Match',
+    targetChannel: 'Channel ID'
+}

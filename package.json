@@ -1,0 +1,12 @@
+{
+
+  "name": "apps-script-youtube-playlist-manager",
+  "version": "1.0.0",
+  "main": "Code.js",
+  "repository": "git@github.com:karldreher/apps-script-youtube-playlist-manager.git",
+  "author": "Karl Dreher",
+  "license": "MIT",
+  "dependencies": {
+    "clasp": "^1.0.0"
+  }
+}
